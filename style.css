@@ -1,0 +1,111 @@
+body{
+  padding: 0;
+  margin: 0;
+  position: relative;
+  text-align: center;
+}
+h1{
+  margin-top: 0;
+  color: #AAD8D3;
+}
+h2{
+  margin-top: 0;
+  color: #0077c0;
+  font-family: cursive;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: cursive;
+  color: cornsilk;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/*******************************                divs                          **********************/
+.header{
+  position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    background: #fafafa;
+    background-image: url(image/binary.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+    text-align: center;
+}
+
+.intro{
+  margin-top: 0;
+  margin-bottom: 0;
+  background: #c7eeff ;
+
+}
+.third{
+  margin-top: 0;
+  margin-bottom: 0;
+  background: #0077c0 ;
+}
+.skills {
+  text-align: left;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  width: 50%;
+  line-height: 1.5;
+}
+.footer{
+  margin-top: 0;
+  margin-bottom: 0;
+  background: #1d242b ;
+}
+/************************** elements **********************/
+.ye{
+    margin: 50px 0;
+    HEIGHT: 189PX;
+    width: 150px;
+}
+.binary {
+width: 40%;
+}
+.light {
+  margin: 0 auto;
+  filter: opacity(50%) drop-shadow(6px 4px 6px black) grayscale(1);
+  width: 800px;
+}
+.skill-img {
+  float: left;
+  margin-right: 20px;
+
+}
+.icon {
+  padding: 20px;
+}
+.hi {
+    position: absolute;
+    top: 320px;
+    right: 358px;
+    left: 358px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 3.5em;
+    color: black;
+}
+.hi2 {
+    position: absolute;
+    top: 400px;
+    right: 399.5px;
+    left: 399.5px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 2em;
+    color: black;
+}
+.info {
+    margin: auto;
+    width: 30%;
+    color: #0077c0;
+    padding-bottom: 20px;
+}
+.copy {
+padding: 10px;
+}
